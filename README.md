@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/s3d1p0x/s3d1p0x/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/s3d1p0x/s3d1p0x/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **s3d1p0x/s3d1p0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
